@@ -10,3 +10,9 @@ Integrantes :
 7 de octubre del 2026
 
 Repase lo que vi en clases
+
+## Practica 2
+
+7 de octubre del 2026
+
+Entendi lo visto en clase gracias a roger
