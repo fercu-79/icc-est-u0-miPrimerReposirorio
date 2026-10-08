@@ -23,3 +23,4 @@ Entendi lo visto en clase gracias a roger
 
 Crear carpeta assets para insertar una imagen
 
+![alt text](assets/image.png)
